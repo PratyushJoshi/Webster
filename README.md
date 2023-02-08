@@ -1,7 +1,5 @@
-### This is the README file for this project
+## This is the Readme File for this project
 
-#### Sending this change from main branch
+### This project was made for webster hackathon NMIMS
 
-##### New change from master
-
-###### this is me trying commit master
+#### Contributors Pratyush Joshi, PY Sharan and Anvitha Swaroop
